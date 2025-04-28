@@ -1,6 +1,10 @@
 # LIYM
 Liym is a model format designed for the limitations of the Nintendo Wii. It can be read at runtime on the Wii, or used as an intermediary format for processing model data for other tools. 
 
+## LiyModelExporter.py usage
+
+Open the script in a Blender text editor. Change the settings at the top of the file, then make sure your object is selected and press the play button at the top of the text editor. 
+
 ## LIYM file walkthrough
 
 This section will be a walkthrough of the data of this model. It is a tetrahedron with custom normals, texture coordinates, vertex colors, and per-vertex modelview matrix indecies.

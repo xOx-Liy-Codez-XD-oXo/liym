@@ -5,7 +5,7 @@ Liym is a model format designed for the limitations of the Nintendo Wii. It can 
 
 This section will be a walkthrough of the data of this model. It is a tetrahedron with custom normals, texture coordinates, vertex colors, and per-vertex modelview matrix indecies.
 
-(images)
+![tetr1](https://github.com/user-attachments/assets/cce2e110-d63f-4dd5-b050-663a567f6add) ![tetr2](https://github.com/user-attachments/assets/88ea4576-629f-4325-9c28-2e02ce967ba6)
 
 This is the model data. 
 

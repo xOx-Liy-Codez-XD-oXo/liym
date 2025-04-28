@@ -3,7 +3,7 @@ Liym is a model format designed for the limitations of the Nintendo Wii. It can 
 
 ## LiyModelExporter.py usage
 
-Open the script in a Blender text editor. Change the settings at the top of the file, then make sure your object is selected and press the play button at the top of the text editor. 
+Open the script in a Blender text editor. Change the settings at the top of the file, then make sure your object is selected and press the play button at the top of the text editor. The file will be dropped in your home. 
 
 ## LIYM file walkthrough
 

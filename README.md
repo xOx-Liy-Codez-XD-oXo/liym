@@ -31,7 +31,6 @@ w
 
 ### `o`
 LIYM files can have multiple objects. The start of each object is denoted by `o`. The end of an object is defined by a line break '\n' immediately before EOF or another object.
-Note: libogc FAT filesystem driver sometimes will not present EOF, returning char 255 instead
 
 ### `109`
 Filetype. An integer describing the content of the object. This can be ANDed with a table to determine the content features.
